@@ -1,0 +1,68 @@
+<component name="InspectionProjectProfileManager">
+  <profile version="1.0">
+    <option name="myName" value="Project Default" />
+    <inspection_tool class="PyPackageRequirementsInspection" enabled="true" level="WARNING" enabled_by_default="true">
+      <option name="ignoredPackages">
+        <value>
+          <list size="55">
+            <item index="0" class="java.lang.String" itemvalue="protobuf" />
+            <item index="1" class="java.lang.String" itemvalue="greenlet" />
+            <item index="2" class="java.lang.String" itemvalue="MarkupSafe" />
+            <item index="3" class="java.lang.String" itemvalue="gitdb" />
+            <item index="4" class="java.lang.String" itemvalue="pysnowflake" />
+            <item index="5" class="java.lang.String" itemvalue="automium_web" />
+            <item index="6" class="java.lang.String" itemvalue="certifi" />
+            <item index="7" class="java.lang.String" itemvalue="gevent" />
+            <item index="8" class="java.lang.String" itemvalue="Flask-Email" />
+            <item index="9" class="java.lang.String" itemvalue="jsonschema" />
+            <item index="10" class="java.lang.String" itemvalue="dnspython" />
+            <item index="11" class="java.lang.String" itemvalue="GitPython" />
+            <item index="12" class="java.lang.String" itemvalue="Flask-Script" />
+            <item index="13" class="java.lang.String" itemvalue="Werkzeug" />
+            <item index="14" class="java.lang.String" itemvalue="Flask-WTF" />
+            <item index="15" class="java.lang.String" itemvalue="streamlit" />
+            <item index="16" class="java.lang.String" itemvalue="asgiref" />
+            <item index="17" class="java.lang.String" itemvalue="cryptography" />
+            <item index="18" class="java.lang.String" itemvalue="Flask-SQLAlchemy" />
+            <item index="19" class="java.lang.String" itemvalue="altair" />
+            <item index="20" class="java.lang.String" itemvalue="automium" />
+            <item index="21" class="java.lang.String" itemvalue="bcrypt" />
+            <item index="22" class="java.lang.String" itemvalue="simplejson" />
+            <item index="23" class="java.lang.String" itemvalue="prettytable" />
+            <item index="24" class="java.lang.String" itemvalue="PyMySQL" />
+            <item index="25" class="java.lang.String" itemvalue="Mako" />
+            <item index="26" class="java.lang.String" itemvalue="alembic" />
+            <item index="27" class="java.lang.String" itemvalue="legacy" />
+            <item index="28" class="java.lang.String" itemvalue="pydeck" />
+            <item index="29" class="java.lang.String" itemvalue="smmap" />
+            <item index="30" class="java.lang.String" itemvalue="SQLAlchemy" />
+            <item index="31" class="java.lang.String" itemvalue="pyspark" />
+            <item index="32" class="java.lang.String" itemvalue="py4j" />
+            <item index="33" class="java.lang.String" itemvalue="sqlparse" />
+            <item index="34" class="java.lang.String" itemvalue="rpds-py" />
+            <item index="35" class="java.lang.String" itemvalue="tenacity" />
+            <item index="36" class="java.lang.String" itemvalue="pyecharts" />
+            <item index="37" class="java.lang.String" itemvalue="urllib3" />
+            <item index="38" class="java.lang.String" itemvalue="ez_setup" />
+            <item index="39" class="java.lang.String" itemvalue="itsdangerous" />
+            <item index="40" class="java.lang.String" itemvalue="Flask" />
+            <item index="41" class="java.lang.String" itemvalue="blinker" />
+            <item index="42" class="java.lang.String" itemvalue="pyarrow" />
+            <item index="43" class="java.lang.String" itemvalue="packaging" />
+            <item index="44" class="java.lang.String" itemvalue="toml" />
+            <item index="45" class="java.lang.String" itemvalue="WTForms" />
+            <item index="46" class="java.lang.String" itemvalue="watchdog" />
+            <item index="47" class="java.lang.String" itemvalue="toolz" />
+            <item index="48" class="java.lang.String" itemvalue="Django" />
+            <item index="49" class="java.lang.String" itemvalue="Flask-Mail" />
+            <item index="50" class="java.lang.String" itemvalue="Flask-Migrate" />
+            <item index="51" class="java.lang.String" itemvalue="email_validator" />
+            <item index="52" class="java.lang.String" itemvalue="typing_extensions" />
+            <item index="53" class="java.lang.String" itemvalue="cachetools" />
+            <item index="54" class="java.lang.String" itemvalue="Flask-MySQL" />
+          </list>
+        </value>
+      </option>
+    </inspection_tool>
+  </profile>
+</component>
